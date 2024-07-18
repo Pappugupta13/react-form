@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  background-color:white;
+  
+}
+.header{
+    /* display: grid;
+    text-align: center; */
+    margin-top: 150px;
+    font-size:40px;
+    color: gray -700px;
+
+
+
+}
